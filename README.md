@@ -6,7 +6,7 @@ Minimal project to reproduce orientation bug on Samsung tablet SM-T580.
 
 Tablet ignores locked screen orientation defined in app manifest, if:
 - app has permission to start lock task mode and initial activity launches with `android:lockTaskMode="if_whitelisted"`
-- app start on device boot
+- app starts on device boot
 - app has locked screen orientation defined in manifest
 - you don't unlock the device until the app has been launched
 
