@@ -1,6 +1,6 @@
 # OrientationTest
 
-Minimal project to reproduce orientation bug on Samsung tablet SM-T580.
+Minimal project to reproduce orientation bug on Samsung tablet SM-T580. Reported [here](https://developer.samsung.com/forum/board/thread/view.do?messageId=353382).
 
 ## Bug description
 
